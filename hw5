@@ -1,9 +1,0 @@
-ps -Af | grep 'Safari'    //команда для браузера
-
-mkdir folder    // скрипт
-cd folder
-touch a.txt
-touch b.txt
-touch c.txt
-mv `find a.txt` ..
-rm ../a.txt
